@@ -1,12 +1,17 @@
-h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
+.ns-wrapper {
+  padding: 20px;
+}
 
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+.project {
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 24px;
+  color: #8e1010;
+}
+
+h6 {
+  font-size: 18px;
+  color: #666;
 }
